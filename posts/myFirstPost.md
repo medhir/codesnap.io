@@ -1,7 +1,7 @@
 ---
 title: My First Post
 tags:
-published: false
+published: true
 ---
 
 ## Metadata
